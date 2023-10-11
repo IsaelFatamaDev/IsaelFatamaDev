@@ -6,11 +6,9 @@
     font-family: 'Poppins', sans-serif;
 }
 
-html{
-    background-color: #007bff;
-}
 
 body {
+    background-image: url('./img/2.jpg');
     margin: 0;
     padding: 0;
     display: flex;
