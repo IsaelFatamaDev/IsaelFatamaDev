@@ -1,7 +1,16 @@
-/* Estilos generales */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+html{
+    background-color: #007bff;
+}
+
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
     margin: 0;
     padding: 0;
     display: flex;
@@ -9,6 +18,7 @@ body {
     align-items: center;
     height: 100vh;
 }
+
 
 form {
     background-color: #fff;
@@ -20,13 +30,12 @@ form {
     text-align: center;
 }
 
-/* Estilos del título */
 h2 {
     font-size: 24px;
     color: #333;
 }
 
-/* Estilos de las opciones */
+
 .option {
     display: flex;
     align-items: center;
@@ -48,7 +57,6 @@ h2 {
     font-size: 16px;
 }
 
-/* Estilos del grupo de entrada */
 .input-group {
     margin-top: 20px;
 }
@@ -69,7 +77,6 @@ h2 {
     font-size: 16px;
 }
 
-/* Estilos del botón */
 button {
     background-color: #007bff;
     color: #fff;
@@ -85,7 +92,6 @@ button:hover {
     background-color: #0056b3;
 }
 
-/* Estilos del enlace "¿Olvidó su contraseña?" */
 h5 {
     margin-top: 10px;
     font-size: 14px;
@@ -93,26 +99,49 @@ h5 {
     cursor: pointer;
 }
 
-/* Estilos de la pregunta "Acepta la política..." */
 label[for="check"] {
     display: block;
     font-size: 14px;
 }
 
-/* Estilos para la casilla de verificación */
 input[type="checkbox"] {
     margin-right: 10px;
 }
 
-/* Estilos para los campos de texto cuando están enfocados */
 input[type="text"]:focus {
     outline: none;
     border: 1px solid #007bff;
 }
 
-.logo {
-    float: left;
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
-  
+.container {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    max-width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-content {
+    display: flex;
+    align-items: center;
+
+}
+
+.form-image {
+    flex: 3;
+    margin: 30px;
+}
+
+.form-image img {
+    height: 300px;
+    
+}
+
+
+.form-fields {
+    flex: 2;
+    padding: 20px;
+}
