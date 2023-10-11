@@ -48,7 +48,7 @@ h2 {
 
 .option label::before {
     content: '\2022';
-    color: #007bff;
+    color: #e40000;
     font-size: 20px;
     padding-right: 10px;
 }
@@ -78,7 +78,8 @@ h2 {
 }
 
 button {
-    background-color: #007bff;
+    margin-top: 20px;
+    background-color: #b30000;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -89,7 +90,7 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #b30000;
 }
 
 h5 {
@@ -110,7 +111,7 @@ input[type="checkbox"] {
 
 input[type="text"]:focus {
     outline: none;
-    border: 1px solid #007bff;
+    border: 1px solid #b30000;
 }
 
 .container {
