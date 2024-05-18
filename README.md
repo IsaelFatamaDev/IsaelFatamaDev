@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" align="center" style="width: 100%" />
+<img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" align="center" style="width: 60%" />
 </div>  
   
 
@@ -119,8 +119,6 @@ challenges in the field of technology and innovation.<br><br>
 ###
 
 
-
-
 ----
 
 ## Spotify
@@ -130,12 +128,3 @@ challenges in the field of technology and innovation.<br><br>
 
 <br/>  
 
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
