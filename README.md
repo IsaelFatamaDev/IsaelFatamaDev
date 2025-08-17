@@ -21,14 +21,11 @@
 
 # 👨‍💻 About Me
 
-<!-- Desktop Layout -->
-<div align="center" class="desktop-layout">
+<div align="center">
   <table>
     <tr>
       <td width="50%" align="center">
         <img width="300" style="border-radius: 15px; border: 3px solid #00D9FF; max-width: 100%; height: auto;" src="./img/IsaelFatamaDev.png" alt="Isael Fatama Dev"/>
-        <br/>
-
       </td>
       <td width="50%" valign="top">
         <h2>🚀 Isael Javier Fatama Godoy</h2>
@@ -54,111 +51,7 @@
       </td>
     </tr>
   </table>
-</div>
-
-<!-- Mobile Layout -->
-<div align="center" class="mobile-layout" style="display: none;">
-  <img width="250" style="border-radius: 15px; border: 3px solid #00D9FF; max-width: 90%; height: auto;" src="./img/IsaelFatamaDev.png" alt="Isael Fatama Dev"/>
-  <br/><br/>
-
-  <h2>🚀 Isael Javier Fatama Godoy</h2>
-  <p><strong>Systems Analysis Student</strong> since 2023</p>
-  <p>Passionate about software development and technological innovation. Specialized in modern technologies and scalable architectures.</p>
-
-  <h3>💼 Current Focus</h3>
-  <ul style="text-align: left; display: inline-block;">
-    <li>🔭 <strong>Working on:</strong> Reactive microservices with Spring Boot</li>
-    <li>🌱 <strong>Learning:</strong> Apache Kafka, Event Sourcing, CQRS</li>
-    <li>💻 <strong>Developing:</strong> Scalable REST/GraphQL APIs</li>
-    <li>🐧 <strong>System:</strong> Arch Linux with Hyprland WM</li>
-    <li>⚡ <strong>Goal:</strong> Software Architect</li>
-  </ul>
-
-  <h3>🎨 Interests</h3>
-  <ul style="text-align: left; display: inline-block;">
-    <li>🎵 Music and music production</li>
-    <li>📸 Digital photography</li>
-    <li>🎮 Gaming on Linux</li>
-    <li>🛠️ System customization</li>
-  </ul>
-</div>
-
-<!-- CSS for Responsive Design -->
-<style>
-@media (max-width: 768px) {
-  .desktop-layout { display: none !important; }
-  .mobile-layout { display: block !important; }
-
-  /* Hacer TODAS las tablas responsive */
-  table {
-    width: 100% !important;
-    display: block !important;
-    border: none !important;
-  }
-
-  tr {
-    display: block !important;
-    margin-bottom: 15px !important;
-  }
-
-  td {
-    display: block !important;
-    width: 100% !important;
-    text-align: center !important;
-    padding: 10px !important;
-    border: none !important;
-  }
-
-  /* Imágenes responsive */
-  img {
-    max-width: 95% !important;
-    height: auto !important;
-  }
-
-  /* GitHub Stats responsive */
-  div[align="center"] img[height="180em"] {
-    width: 100% !important;
-    height: auto !important;
-    max-width: 350px !important;
-    margin: 5px 0 !important;
-  }
-
-  /* Code blocks responsive */
-  pre {
-    overflow-x: auto !important;
-    font-size: 12px !important;
-  }
-
-  /* Badges responsive */
-  div[align="center"] {
-    flex-wrap: wrap !important;
-    justify-content: center !important;
-  }
-}
-
-@media (min-width: 769px) {
-  .desktop-layout { display: block !important; }
-  .mobile-layout { display: none !important; }
-}
-
-/* Mejorar responsive para pantallas muy pequeñas */
-@media (max-width: 480px) {
-  div[align="center"] img[height="180em"] {
-    max-width: 300px !important;
-  }
-
-  img[src*="typing-svg"] {
-    width: 95% !important;
-    max-width: 350px !important;
-  }
-
-  img[src*="capsule-render"] {
-    width: 100% !important;
-  }
-}
-</style>
-
-## 🎯 Professional Profile
+</div>## 🎯 Professional Profile
 
 <table>
 <tr>
@@ -167,7 +60,7 @@
 ```javascript
 const isael = {
     name: "Isael Javier Fatama Godoy",
-    location: "🌎 Argentina",
+    location: "🌎 Perú",
     education: "📚 Systems Analysis",
     start_year: 2023,
     operating_system: "🐧 Arch Linux + Hyprland",
@@ -283,44 +176,36 @@ const isael = {
 
 ## 📊 GitHub Statistics
 
-<!-- Desktop Layout -->
-<div align="center" class="desktop-layout">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaelFatamaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=400" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaelFatamaDev&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages"/>
 </div>
 
-<!-- Mobile Layout -->
-<div align="center" class="mobile-layout" style="display: none;">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaelFatamaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=350" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaelFatamaDev&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=350" alt="Top Languages" style="max-width: 100%; height: auto;"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaelFatamaDev&theme=tokyonight&hide_border=true&card_width=800" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaelFatamaDev&theme=tokyonight&hide_border=true&card_width=800" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IsaelFatamaDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" style="max-width: 100%; height: auto;"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=IsaelFatamaDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies"/>
 </div>
 
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaelFatamaDev&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd&area=true&hide_border=true&height=400" alt="Contribution Activity" style="max-width: 100%; height: auto;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaelFatamaDev&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd&area=true&hide_border=true&height=400" alt="Contribution Activity"/>
 </div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/IsaelFatamaDev/dotfiles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsaelFatamaDev&repo=dotfiles&theme=tokyonight&hide_border=true&description_lines_count=3" alt="Dotfiles Repository" style="max-width: 100%; height: auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsaelFatamaDev&repo=dotfiles&theme=tokyonight&hide_border=true&description_lines_count=3" alt="Dotfiles Repository"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/IsaelFatamaDev/PRS_WEBSITE_DEV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsaelFatamaDev&repo=PRS_WEBSITE_DEV&theme=tokyonight&hide_border=true&description_lines_count=3" alt="PRS Website Development" style="max-width: 100%; height: auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsaelFatamaDev&repo=PRS_WEBSITE_DEV&theme=tokyonight&hide_border=true&description_lines_count=3" alt="PRS Website Development"/>
   </a>
 </div>
 
@@ -381,10 +266,11 @@ const isael = {
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%; height: auto;"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
+
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
