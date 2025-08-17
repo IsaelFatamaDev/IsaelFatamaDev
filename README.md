@@ -22,16 +22,21 @@
 # 👨‍💻 About Me
 
 <div align="center">
+  <img width="250" style="border-radius: 15px; ; max-width: 100%; height: auto;" src="./img/IsaelFatamaDev.png" alt="Isael Fatama Dev"/>
+</div>
+
+<div align="center" style="max-width: 600px; margin: auto;">
+  <h2>🚀 Isael Javier Fatama Godoy</h2>
+  <p><strong>Systems Analysis Student</strong> since 2023</p>
+  <p>Passionate about software development and technological innovation. Specialized in modern technologies and scalable architectures.</p>
+</div>
+
+## 🎯 Professional Profile
+
+<div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
-        <img width="300" style="border-radius: 15px; border: 3px solid #00D9FF; max-width: 100%; height: auto;" src="./img/IsaelFatamaDev.png" alt="Isael Fatama Dev"/>
-      </td>
-      <td width="50%" valign="top">
-        <h2>🚀 Isael Javier Fatama Godoy</h2>
-        <p><strong>Systems Analysis Student</strong> since 2023</p>
-        <p>Passionate about software development and technological innovation. Specialized in modern technologies and scalable architectures.</p>
-
+      <td width="50%" valign="center">
         <h3>💼 Current Focus</h3>
         <ul>
           <li>🔭 <strong>Working on:</strong> Reactive microservices with Spring Boot</li>
@@ -40,7 +45,8 @@
           <li>🐧 <strong>System:</strong> Arch Linux with Hyprland WM</li>
           <li>⚡ <strong>Goal:</strong> Software Architect</li>
         </ul>
-
+      </td>
+      <td width="50%" valign="center">
         <h3>🎨 Interests</h3>
         <ul>
           <li>🎵 Music and music production</li>
@@ -51,57 +57,7 @@
       </td>
     </tr>
   </table>
-</div>## 🎯 Professional Profile
-
-<table>
-<tr>
-<td>
-
-```javascript
-const isael = {
-    name: "Isael Javier Fatama Godoy",
-    location: "🌎 Perú",
-    education: "📚 Systems Analysis",
-    start_year: 2023,
-    operating_system: "🐧 Arch Linux + Hyprland",
-    specialties: [
-        "Full Stack Development",
-        "Reactive Programming",
-        "Microservices Architecture",
-        "Cloud Technologies",
-        "Linux System Administration"
-    ],
-    favorite_technologies: [
-        "Spring Boot Reactive",
-        "Apache Kafka",
-        "Keycloak Security",
-        "Docker & Kubernetes",
-        "Arch Linux"
-    ]
-};
-```
-
-</td>
-<td>
-
-### 🚀 Currently
-
-- 🔭 **Working on:** Reactive microservices with Spring Boot
-- 🌱 **Learning:** Apache Kafka, Event Sourcing, CQRS
-- 💼 **Developing:** Scalable REST/GraphQL APIs
-- 🐧 **System:** Arch Linux with Hyprland WM
-- ⚡ **Goal:** Software Architect
-
-### 🎨 Interests
-
-- 🎵 Music and music production
-- 📸 Digital photography
-- 🎮 Gaming on Linux
-- 🛠️ System customization
-
-</td>
-</tr>
-</table>
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -129,15 +85,17 @@ const isael = {
 ### 🗄️ Databases & Storage
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,supabase&theme=dark" alt="Database Icons"/>
   <br/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
 </div>
 
 ### ☁️ DevOps & Cloud
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,git,github,gmail&theme=dark" />
   <br/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
@@ -158,20 +116,29 @@ const isael = {
   <img src="https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white" />
 </div>
 
-### 🛠️ Development Tools
+### 🛠️ Development Tools & IDEs
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,obsidian&theme=dark" alt="IDE Icons"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" alt="DataGrip"/>
+  <br/>
+  <img src="https://img.shields.io/badge/SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL Developer"/>
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Management Studio"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
 ### 🎨 Design & Creative
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,premiere&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,premiere&theme=dark" alt="Design Tools"/>
   <br/>
-  <img src="https://img.shields.io/badge/Filmora-00C4CC?style=for-the-badge&logo=wondershare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Filmora_14-00C4CC?style=for-the-badge&logo=wondershare&logoColor=white" alt="Filmora 14"/>
 </div>
 
 ## 📊 GitHub Statistics
